@@ -7,7 +7,7 @@ cask "caret" do
   desc "Fixes text typed on the wrong keyboard layout"
   homepage "https://github.com/maksim-shabunov/caret"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "Caret.app"
 
