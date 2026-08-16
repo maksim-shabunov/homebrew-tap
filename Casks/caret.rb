@@ -1,6 +1,6 @@
 cask "caret" do
   version "1.0.0"
-  sha256 "4332517e20464dcabccd041ae8e9399427d1cd192191d853e9de552dc5f94564"
+  sha256 "4226708ef157840508c5ab422867f0367cc0c1fb61a3659e63ca831afe288c9d"
 
   url "https://github.com/maksim-shabunov/caret/releases/download/v#{version}/Caret-#{version}.zip"
   name "Caret"
