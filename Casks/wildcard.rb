@@ -7,7 +7,7 @@ cask "wildcard" do
   desc "Set default applications by category, with every change reviewed first"
   homepage "https://github.com/maksim-shabunov/wildcard"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Wildcard.app"
 
